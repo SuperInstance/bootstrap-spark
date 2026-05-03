@@ -129,5 +129,9 @@ def main() -> int:
         return 1
 
 
-if __name__ == "__main__":
+def main():
     sys.exit(main())
+
+
+if __name__ == "__main__":
+    main()

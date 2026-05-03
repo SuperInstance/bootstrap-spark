@@ -1,0 +1,16 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "bootstrap-spark"
+version = "1.0.0"
+description = "Cocapn Fleet module — bootstrap-spark"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+keywords = ["cocapn", "fleet"]
+
+[project.scripts]
+bootstrap_spark = "sparkcheck:main"
+
