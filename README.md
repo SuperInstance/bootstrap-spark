@@ -1,5 +1,15 @@
 # Bootstrap Spark Protocol
 
+
+## Meta
+
+**Domain:** ai-agents
+**Depends on:** —
+**Depended by:** —
+**Implements:** 🟢 Bootstrap Spark Protocol — self-describing agent knowledge in 6 markdown files...
+**Related:** —
+
+
 **Six markdown files. Any agent that finds them knows what this repo is, what it's for, and how to work with it.**
 
 A `.spark/` directory is the smallest self-describing unit of agent knowledge. Drop it into any repo. Any agent — or any human — that finds it can orient themselves within seconds. No README parsing, no guessing at project structure, no training data required.
